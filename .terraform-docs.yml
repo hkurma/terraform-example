@@ -1,0 +1,4 @@
+formatter: "markdown table"
+
+output:
+  file: "doc.md"
